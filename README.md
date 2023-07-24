@@ -26,6 +26,9 @@
 - Sale Period Prediction 2018-2022
 ![Predictions](https://github.com/shwetasaini07/time-series/assets/38052962/1817fc33-1f0b-48aa-a4d2-0c9ae7b0bdce)
 
+-Sale Period prediction 2018-2023
+![predictions_2](https://github.com/shwetasaini07/time-series/assets/38052962/9733a069-a5ea-42c8-b107-8dcd1cf4a6a7)
+
 - ARIMA predictions
 ![ARIMA](https://github.com/shwetasaini07/time-series/assets/38052962/2ce523e4-b0ae-4d40-8f88-ec027edf022f)
 
