@@ -23,6 +23,15 @@
 
 ### Visualization
 
+- Sale Period Prediction 2018-2022
+![Predictions](https://github.com/shwetasaini07/time-series/assets/38052962/1817fc33-1f0b-48aa-a4d2-0c9ae7b0bdce)
+
+- ARIMA predictions
+![ARIMA](https://github.com/shwetasaini07/time-series/assets/38052962/2ce523e4-b0ae-4d40-8f88-ec027edf022f)
+
+- SARIMAX predictions
+![SARIMAX](https://github.com/shwetasaini07/time-series/assets/38052962/d51da49c-9af4-40bb-9ce2-a32d39fda38b)
+
 
 ### Data Source 
 - https://www.kaggle.com/code/imkushwaha/project-forecasting-the-furniture-sales/data 
