@@ -35,8 +35,7 @@
 
 
 ### Data Source 
-- https://www.kaggle.com/code/imkushwaha/project-forecasting-the-furniture-sales/data 
- 
- 
+[Kaggle]: https://www.kaggle.com/code/imkushwaha/project-forecasting-the-furniture-sales/data 
+
 
 
