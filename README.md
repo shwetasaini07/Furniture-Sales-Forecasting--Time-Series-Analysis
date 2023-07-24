@@ -1,2 +1,2 @@
-# time-series
+# Time Series Analysis
 Sales Forecasting
