@@ -1,5 +1,3 @@
-# Furniture Sales Forecasting -Time Series Analysis
-
 ## Table of Contents
 - 1. Problem Statement
   2. Approach
